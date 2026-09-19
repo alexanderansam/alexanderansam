@@ -20,7 +20,7 @@ monetization stack (rewarded/interstitial ads + IAP).
 ---
 
 ### Stack
-`C#` `Unity` `WebGL` `Adobe Photoshop` `Adobe Illustrator` `Krita`
+`C#` `Unity` `WebGL` `Adobe Photoshop` `Adobe Illustrator` `Krita` `Ai`
 
 📺 [Unity 2д игра с нуля](https://www.youtube.com/@Алекс_Юнити_проект) — devlog-канал:
 процесс рисования арта и написания кода для Gargoyles Puzzle от начала до релиза.
