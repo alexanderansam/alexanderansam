@@ -17,16 +17,13 @@ monetization stack (rewarded/interstitial ads + IAP).
 🎮 **Gargoyles Puzzle** — *itch.io*
 🔗 [Play on itch.io](https://alexsamgame.itch.io)
 
-🎮 **Mayak (Lighthouse)** — *in development*
-A light-beam puzzle game, built on the Fan Othello codebase.
-
 ---
 
 ### Stack
-`C#` `Unity` `WebGL` `Adobe Photoshop` `Adobe Illustrator` `Yandex Games SDK`
+`C#` `Unity` `WebGL` `Adobe Photoshop` `Adobe Illustrator` `Krita`
 
 📺 [Unity 2д игра с нуля](https://www.youtube.com/@Алекс_Юнити_проект) — devlog-канал:
-процесс рисования арта и написания кода для Fan Othello от начала до релиза.
+процесс рисования арта и написания кода для Gargoyles Puzzle от начала до релиза.
 
 📫 alexander.an.sam@gmail.com
 ```
