@@ -12,10 +12,10 @@ localization, and platform release.
 Reversi/Othello puzzle game — 92 levels, localized into 6 languages
 (RU/EN/TR/DE/ES/FR), leaderboards, cross-device cloud save sync, full
 monetization stack (rewarded/interstitial ads + IAP).
-🔗 [Play on Yandex Games](https://yandex.ru/games/app/flipreflip-501649?utm_source=app_page)
+🔗 [Play on Yandex Games](https://yandex.ru/games/app/flipreflip-501649)
 
 🎮 **Gargoyles Puzzle** — *itch.io*
-🔗 [Play on itch.io](https://alexsamgame.itch.io)
+🔗 [Play on itch.io](https://alexansam.itch.io/)
 
 ---
 
